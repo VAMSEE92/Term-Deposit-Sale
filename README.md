@@ -9,12 +9,12 @@ https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 ### Details
 In this project I worked on exploring the data and transforming the features to be suitable for training the model
 ##### 
-There are three mejor steps in this project:
+There are three major steps in this project:
 ##### 
 Performing preprocessing and feature engineering on the data, so that the model fits and performs better.  
 ##### 
 Training and making predictions using ensemble techniques
 ##### 
 Evaluating multiple ensemble techniques like bagging, boosting, random forest and comparing their performances to each other
-### Vlue of project
+### Value of project
 Insights of the data are visualized and codes of all the steps were included in notebook along with the explanation.
